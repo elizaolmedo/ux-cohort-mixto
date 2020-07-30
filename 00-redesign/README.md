@@ -1,4 +1,4 @@
-# Aplicación financiera
+# Rediseño Banqui App Financiera
 
 ## Preámbulo
 Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico
